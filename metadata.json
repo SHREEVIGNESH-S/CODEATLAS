@@ -1,0 +1,6 @@
+{
+  "name": "CODEATLAS",
+  "description": "Give Every Codebase a Brain — interactive 3D architecture maps, AI code tutor, personalized learning journeys, and change impact analysis for GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
